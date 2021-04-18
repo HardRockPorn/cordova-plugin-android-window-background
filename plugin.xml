@@ -34,7 +34,7 @@
   		</config-file>
 		
 		<config-file target="app/src/main/res/values/cordova-window-background-styles.xml" parent="/*">
-  			<style name="CordovaWindowBackgroundTheme" parent="@android:style/Theme.Panel">
+  			<style name="CordovaSplashTheme" parent="@android:style/Theme.Panel">
   				   	<item name="android:windowBackground">@color/cordova_window_background</item>
 					<item name="android:statusBarColor">@color/cordova_window_background</item>
 					<item name="android:navigationBarColor">@color/cordova_window_background</item>
